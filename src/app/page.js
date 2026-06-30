@@ -32,7 +32,7 @@ export default function Home() {
           <ScrollReveal delay={500} variant="fade-up">
             <div className="mt-10 flex items-center justify-center">
               <a
-                href="#pricing"
+                href="https://selar.com/adventuresinanimation"
                 className="group/btn flex items-center justify-center rounded-full bg-white border border-white/10 px-8 py-4 text-base font-semibold text-[#001e70] shadow-lg transition-all duration-300 hover:bg-zinc-100 active:scale-[0.98]"
               >
                 Apply Now
@@ -114,7 +114,7 @@ export default function Home() {
             <ScrollReveal variant="fade-left" className="md:col-span-8">
               <div className="relative rounded-3xl overflow-hidden shadow-xl min-h-[420px] flex flex-col justify-end p-8 sm:p-12 bg-zinc-900 group h-full">
                 <img
-                  src="/features-landscape.png"
+                  src="/Magic Lab Student Picture.png"
                   alt="Studio workflow background"
                   className="absolute inset-0 h-full w-full object-cover transition-transform duration-700 group-hover:scale-102"
                 />
@@ -139,24 +139,20 @@ export default function Home() {
               <div className="bg-white rounded-3xl border border-zinc-100 p-8 sm:p-12 shadow-xl shadow-zinc-200/10 flex flex-col justify-center min-h-[420px] h-full">
                 <div>
                   <h3 className="text-2xl font-bold text-[#001e70] font-serif">
-                    Focus Areas
+                    3D Animation Focus Area
                   </h3>
                   <ul className="mt-6 space-y-4 text-[15px] font-semibold text-[#004edd]">
                     <li className="flex items-start gap-2.5">
                       <span className="text-[#004edd] text-lg select-none leading-none">•</span>
-                      <span>2D Cut-Out Animation</span>
+                      <span>Introduction to 3D Animation</span>
                     </li>
                     <li className="flex items-start gap-2.5">
                       <span className="text-[#004edd] text-lg select-none leading-none">•</span>
-                      <span>3D Animation</span>
+                      <span>3D Animation Fundamentals</span>
                     </li>
                     <li className="flex items-start gap-2.5">
                       <span className="text-[#004edd] text-lg select-none leading-none">•</span>
-                      <span>Creative Storytelling</span>
-                    </li>
-                    <li className="flex items-start gap-2.5">
-                      <span className="text-[#004edd] text-lg select-none leading-none">•</span>
-                      <span>Visual Development</span>
+                      <span>Practical Learning</span>
                     </li>
                   </ul>
                 </div>
@@ -274,7 +270,7 @@ export default function Home() {
                     Self-Paced
                   </h3>
                   <div className="mt-6 flex items-baseline gap-1">
-                    <span className="text-4xl font-extrabold text-zinc-900 tracking-tight font-sans">₦160,000</span>
+                    <span className="text-7xl font-extrabold text-zinc-900 tracking-tight font-sans">FREE</span>
                   </div>
                 </div>
                 
@@ -305,7 +301,7 @@ export default function Home() {
 
               <div className="mt-8 pt-6 border-t border-zinc-100">
                 <a
-                  href="#join"
+                  href="https://selar.com/adventuresinanimation"
                   className="block w-full text-center rounded-full bg-[#001e70] py-3.5 text-sm font-semibold text-white shadow-md hover:bg-[#001757] transition-all duration-300 active:scale-[0.98]"
                 >
                   Join Now
@@ -341,7 +337,7 @@ export default function Home() {
           <ScrollReveal variant="fade-up" delay={300}>
             <div className="mt-10 flex items-center justify-center">
               <a
-                href="#pricing"
+                href="https://selar.com/adventuresinanimation"
                 className="group/btn flex items-center justify-center rounded-full bg-zinc-950 border border-zinc-950 px-8 py-4 text-base font-semibold text-white shadow-lg transition-all duration-300 hover:bg-zinc-900 active:scale-[0.98]"
               >
                 Apply Now

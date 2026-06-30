@@ -69,13 +69,13 @@ export default function Header() {
 
           {/* CTA Button (Right - Desktop) */}
           <div className="hidden md:flex items-center">
-            <Link
-              href="#pricing"
+            <a
+              href="https://selar.com/adventuresinanimation"
               className="group/btn flex items-center gap-3.5 rounded-full border border-white/10 bg-black/40 px-6 py-3 text-sm font-semibold text-white shadow-sm transition-all duration-300 hover:bg-black/60 hover:border-white/20 active:scale-[0.98]"
             >
               Apply Now
               <div className="h-4 w-[1px] bg-white/20" />
-            </Link>
+            </a>
           </div>
 
           {/* Mobile Menu Button (Hamburger) */}
@@ -165,8 +165,8 @@ export default function Header() {
             MagicLab
           </a>
           <div className="pt-4 border-t border-white/10 mt-4 px-3">
-            <Link
-              href="#pricing"
+            <a
+              href="https://selar.com/adventuresinanimation"
               onClick={() => setIsOpen(false)}
               className="flex w-full items-center justify-center gap-3.5 rounded-full border border-white/10 bg-black/40 px-6 py-3 text-base font-semibold text-white shadow-md hover:bg-black/60"
             >
@@ -178,7 +178,7 @@ export default function Header() {
                 <div className="h-1 w-1 rounded-full bg-white" />
                 <div className="h-1 w-1 rounded-full bg-white" />
               </div>
-            </Link>
+            </a>
           </div>
         </div>
       </div>

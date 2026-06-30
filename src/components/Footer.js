@@ -20,10 +20,10 @@ export default function Footer() {
             {/* Social Icons */}
             <div className="flex items-center gap-5">
               <a
-                href="mailto:info@animateafrica.com"
+                href="mailto:hello@magiclab.studio"
                 className="text-sm font-semibold hover:text-white transition-colors duration-200"
               >
-                info@animateafrica.com
+                hello@magiclab.studio
               </a>
             </div>
           </div>
@@ -37,35 +37,35 @@ export default function Footer() {
               <ul className="space-y-3.5 text-[15px] font-semibold text-zinc-400">
                 <li>
                   <a
-                    href="https://youtube.com"
+                    href="https://youtube.com/@magiccarpetstudios?si=WEBeh9xUTwK_X84g"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-white transition-colors duration-200 inline-flex items-center gap-2"
                   >
                     <span>YouTube</span>
-                    <span className="text-zinc-600 font-normal">@animateafrica</span>
+                    <span className="text-zinc-600 font-normal">@magiccarpetstudios</span>
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://twitter.com"
+                    href="https://x.com/magiclabacademy?s=21"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-white transition-colors duration-200 inline-flex items-center gap-2"
                   >
-                    <span>Twitter / X</span>
-                    <span className="text-zinc-600 font-normal">@animateafrica</span>
+                    <span>X</span>
+                    <span className="text-zinc-600 font-normal">@magiclabacademy</span>
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/magiclab_community?igsh=NzJzMzJleWNidW9y"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-white transition-colors duration-200 inline-flex items-center gap-2"
                   >
                     <span>Instagram</span>
-                    <span className="text-zinc-600 font-normal">@animateafrica</span>
+                    <span className="text-zinc-600 font-normal">@magiclab_community</span>
                   </a>
                 </li>
               </ul>
