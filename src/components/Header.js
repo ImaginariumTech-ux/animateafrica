@@ -70,7 +70,7 @@ export default function Header() {
           {/* CTA Button (Right - Desktop) */}
           <div className="hidden md:flex items-center">
             <a
-              href="https://selar.com/adventuresinanimation"
+              href="https://selar.com/animateafrica"
               className="group/btn flex items-center gap-3.5 rounded-full border border-white/10 bg-black/40 px-6 py-3 text-sm font-semibold text-white shadow-sm transition-all duration-300 hover:bg-black/60 hover:border-white/20 active:scale-[0.98]"
             >
               Apply Now
@@ -166,7 +166,7 @@ export default function Header() {
           </a>
           <div className="pt-4 border-t border-white/10 mt-4 px-3">
             <a
-              href="https://selar.com/adventuresinanimation"
+              href="https://selar.com/animateafrica"
               onClick={() => setIsOpen(false)}
               className="flex w-full items-center justify-center gap-3.5 rounded-full border border-white/10 bg-black/40 px-6 py-3 text-base font-semibold text-white shadow-md hover:bg-black/60"
             >

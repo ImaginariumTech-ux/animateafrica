@@ -32,7 +32,7 @@ export default function Home() {
           <ScrollReveal delay={500} variant="fade-up">
             <div className="mt-10 flex items-center justify-center">
               <a
-                href="https://selar.com/adventuresinanimation"
+                href="https://selar.com/animateafrica"
                 className="group/btn flex items-center justify-center rounded-full bg-white border border-white/10 px-8 py-4 text-base font-semibold text-[#001e70] shadow-lg transition-all duration-300 hover:bg-zinc-100 active:scale-[0.98]"
               >
                 Apply Now
@@ -301,7 +301,7 @@ export default function Home() {
 
               <div className="mt-8 pt-6 border-t border-zinc-100">
                 <a
-                  href="https://selar.com/adventuresinanimation"
+                  href="https://selar.com/animateafrica"
                   className="block w-full text-center rounded-full bg-[#001e70] py-3.5 text-sm font-semibold text-white shadow-md hover:bg-[#001757] transition-all duration-300 active:scale-[0.98]"
                 >
                   Join Now
@@ -337,7 +337,7 @@ export default function Home() {
           <ScrollReveal variant="fade-up" delay={300}>
             <div className="mt-10 flex items-center justify-center">
               <a
-                href="https://selar.com/adventuresinanimation"
+                href="https://selar.com/animateafrica"
                 className="group/btn flex items-center justify-center rounded-full bg-zinc-950 border border-zinc-950 px-8 py-4 text-base font-semibold text-white shadow-lg transition-all duration-300 hover:bg-zinc-900 active:scale-[0.98]"
               >
                 Apply Now
